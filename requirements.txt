@@ -1,0 +1,8 @@
+torch
+numpy<2
+pretty_midi
+music21
+matplotlib
+scipy
+ipython
+jupyterlab
